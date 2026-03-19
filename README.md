@@ -1,2 +1,3 @@
-# auto-mobile-app-1alz
-A mobile application for modern development workflows
+# Auto Mobile App 1Alz
+
+A mobile application for modern development workflows.
